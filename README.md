@@ -22,4 +22,14 @@ immune cell types from bulk tumor gene expression data</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Deconvolution-Papers/blob/master/d(10).pdf" style="text-decoration:none;">Accurate estimation of cell-type composition from gene expression data </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Deconvolution-Papers/blob/master/d(11).pdf" style="text-decoration:none;">Accurate estimation of cell composition in bulk expression through robust integration of single-cell information</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Deconvolution-Papers/blob/master/d(12).pdf" style="text-decoration:none;">The Impact of Stroma Admixture on Molecular Subtypes and Prognostic Gene Signatures in Serous Ovarian Cancer</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deconvolution-Papers/blob/master/d(13).pdf" style="text-decoration:none;">Neural Blind Deconvolution Using Deep Priors </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Deconvolution-Papers/blob/master/d(14).pdf" style="text-decoration:none;">Deep Convolutional Neural Network for Image Deconvolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Deconvolution-Papers/blob/master/d(15).pdf" style="text-decoration:none;">Checkerboard artifact free sub-pixel convolution</a></li>
+   
+  
+  
+  
+  
+  
 </ul>
